@@ -1,0 +1,9 @@
+.landing {
+    background-image: url('../img/home-banner-montclair.jpg');
+    background-size:cover;
+    height: 100vh;
+}
+
+.header {
+    padding: 0px;
+}
