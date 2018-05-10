@@ -1,10 +1,8 @@
 import React from 'react'
 import {
   BrowserRouter as Router,
-  Route,
-  Link
+  Route
 } from 'react-router-dom'
-import { Container, Button, Col, Row } from "reactstrap";
 import Home from "./pages/Home.js"
 import Results from "./pages/Results.js"
 import Details from "./pages/Details.js"
