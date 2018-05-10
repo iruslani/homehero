@@ -12,7 +12,7 @@ import "../css/search.css";
 
 const SearchBar = ({location}) => (
     <InputGroup>
-        <Input placeholder="Search" />
+        <Input placeholder="Search by location" />
         <InputGroupAddon addonType="append">
         <Link to="/results">
         <Button color="primary">Go</Button>

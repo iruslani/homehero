@@ -10,7 +10,7 @@ const Home = ({location}) => (
     <Row className='h-100 justify-content-center align-items-center'>
         <Col sm="12" md={{ size: 8 }}>
             <div className='search-container'>
-                <h1>Find your new home.</h1>
+                <h1>Find your new home</h1>
                 <SearchBar />
             </div>
         </Col>
