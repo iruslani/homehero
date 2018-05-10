@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-import "./App.css";
+import "./css/App.css";
 import "./css/layout.css"
 import { Container, Button, Col, Row } from "reactstrap";
 import Routes from "./Routes.js"
